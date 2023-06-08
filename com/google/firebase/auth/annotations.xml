@@ -1,0 +1,15 @@
+<root>
+    <item
+        name='com.google.firebase.auth.PhoneAuthProvider com.google.firebase.auth.PhoneAuthProvider getInstance()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;-&gt;new&quot;" />
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+    <item
+        name='com.google.firebase.auth.PhoneAuthProvider void verifyPhoneNumber(java.lang.String, long, java.util.concurrent.TimeUnit, android.app.Activity, com.google.firebase.auth.PhoneAuthProvider.OnVerificationStateChangedCallbacks)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
